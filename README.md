@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello!
+My name is Erica and I'm a new full-stack web developer. I switched careers from being a lawyer.
 
 <!--
 **erileff/erileff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
